@@ -16,7 +16,7 @@ It's a book which published in S.Korea.
 2. There are not many factors to determine the share price.
 3. The USA share prices draw proportionally with the company's income graph.
 
-the first feature has added the marits on investing USA market. The transparency means there are a ton of platforms we can watch and make a decision based on the visible statics. Following websites are the places.
+the first feature has added the marits on investing USA market. The transparency means there are a ton of platforms we can watch and make a decision based on the visible statics. 
 
 ## There are some concepts I've learned.
 
