@@ -1,7 +1,7 @@
 ---
 title: "New Theme & Moved onto hugo blog from SNSs"
 date: 2021-03-14T20:02:59+09:00
-tags : [Writing, Blogging, Content Quality]
+tags : [Book Review, Writing, Blogging, Content Quality]
 draft: false
 ---
 ## This themes's simplicity of beauty just haunting me so badly.

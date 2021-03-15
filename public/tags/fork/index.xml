@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fork on SeungJin YOUN</title>
+    <link>/tags/fork/</link>
+    <description>Recent content in Fork on SeungJin YOUN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Sun, 19 Jul 2020 15:41:04 +0800</lastBuildDate><atom:link href="/tags/fork/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fork app subtree was the solution to upload specific folder</title>
+      <link>/posts/fork-app-subtree-was-the-solution-to-upload-specific-folder/</link>
+      <pubDate>Sun, 19 Jul 2020 15:41:04 +0800</pubDate>
+      
+      <guid>/posts/fork-app-subtree-was-the-solution-to-upload-specific-folder/</guid>
+      <description>Git was super difficult for me. but it took the time to get used with, inevitably. The matter of fact is that I needed to upload public folder which is the projection for this hugo blog. When I just able to upload the publicfolder to the gh-pages only, during wrapping up all git changes, I was the only way to seperately manage the hugo blog well. the right way was subtree. The git&amp;rsquo;s subtree function</description>
+    </item>
+    
+  </channel>
+</rss>

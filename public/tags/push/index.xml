@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>push on SeungJin YOUN</title>
+    <link>/tags/push/</link>
+    <description>Recent content in push on SeungJin YOUN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;https://www.wangchucheng.com/&#34;&gt;C. Wang&lt;/a&gt; and &lt;a href=&#34;https://www.ruiqima.com/&#34;&gt;R. Ma&lt;/a&gt;
+</copyright>
+    <lastBuildDate>Tue, 28 Jul 2020 05:17:08 +0800</lastBuildDate><atom:link href="/tags/push/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Automatically Push Git Without Credential Input</title>
+      <link>/posts/how-to-automatically-push-git-without-credential-input/</link>
+      <pubDate>Tue, 28 Jul 2020 05:17:08 +0800</pubDate>
+      
+      <guid>/posts/how-to-automatically-push-git-without-credential-input/</guid>
+      <description>The problem So, the problem was that I had to keep writing down my credential info for pushing onto git repo.
+Solution   git config credential.helper store
+  git push &amp;lt;repo&amp;gt;
+  git config --global credential.helper &amp;quot;cache --timeout 7200&amp;quot; This setting will expire your cached credential info for 2 hours later.
+  Conclusion  git config credential.helper store commands order to store the git user info (pw, id) in local env - It can raise security issue.</description>
+    </item>
+    
+  </channel>
+</rss>
